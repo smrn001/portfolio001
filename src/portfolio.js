@@ -1,0 +1,66 @@
+const header = {
+  // all the properties are optional - can be left empty or deleted
+  homepage: "https://smrn001.github.io/PortReact/",
+  title: "SN",
+};
+
+const about = {
+  // all the properties are optional - can be left empty or deleted
+  name: "Samir Niroula",
+  role: "Web Developer",
+  description:
+    "Meet the newest passionate web developer from Mechinagar-7, currently immersed in the exciting journey of learning new technologies. This budding talent is pursuing a Bachelor's degree in Computer Science and Information Technology (BSc.CSIT), combining academic rigor with hands-on exploration. Stay tuned as this aspiring developer evolves and contributes to the dynamic field of web development.",
+  // resume: "https://example.com",
+  social: {
+    linkedin: "https://www.linkedin.com/in/samir-niroula-560116271/",
+    github: "https://github.com/smrn001",
+  },
+};
+
+const projects = [
+  // projects can be added an removed
+  // if there are no projects, Projects section won't show up
+  {
+    name: "Photo App ",
+    description:
+      "Personal photo gallery where I showcase my photography skills.",
+    stack: ["HTML", "CSS", "JavaScript"],
+    sourceCode: "https://github.com/smrn001/photoZ",
+    livePreview: "https://smrn001.github.io/photoZ/",
+  },
+  {
+    name: "WebIDE",
+    description: "A web IDE for HTML CSS and JS",
+    stack: ["HTML", "CSS", "JavaScript"],
+    sourceCode: "https://github.com/smrn001/webIDE",
+    livePreview: "https://smrn001.github.io/webIDE/",
+  },
+  {
+    name: "School website",
+    description: "A school website of Dhulabari Secondary school",
+    stack: ["SASS", "TypeScript", "React"],
+    sourceCode: "https://github.com/smrn001/dss",
+    livePreview: "https://smrn001.github.io/dss/",
+  },
+];
+
+const skills = [
+  // skills can be added or removed
+  // if there are no skills, Skills section won't show up
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Material UI",
+  "Git",
+  "C",
+  "python",
+];
+
+const contact = {
+  // email is optional - if left empty Contact section won't show up
+  email: "samir.niroula001@gmail.com",
+};
+
+export { header, about, projects, skills, contact };
