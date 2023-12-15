@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: "https://smrn001.github.io/PortReact/",
   title: "SN",
 };
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: "Samir Niroula",
   role: "Web Developer",
   description:
@@ -18,8 +16,6 @@ const about = {
 };
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: "Photo App ",
     description:
@@ -45,21 +41,17 @@ const projects = [
 ];
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   "HTML",
   "CSS",
   "JavaScript",
   "TypeScript",
   "React",
-  "Material UI",
   "Git",
   "C",
   "python",
 ];
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: "samir.niroula001@gmail.com",
 };
 
