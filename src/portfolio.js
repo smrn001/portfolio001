@@ -1,5 +1,5 @@
 const header = {
-  homepage: "https://github.com/smrn001/portfolio001/",
+  homepage: "https://samirn.com.np/",
   title: "SN",
 };
 
