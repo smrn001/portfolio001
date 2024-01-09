@@ -40,7 +40,7 @@ const projects = [
   },
 ];
 
-const skills = ["HTML", "CSS", "JavaScript", "React", "Git", "C", "python"];
+const skills = ["HTML", "CSS", "JavaScript", "React", "Git", "C"];
 
 const contact = {
   email: "samir.niroula001@gmail.com",
