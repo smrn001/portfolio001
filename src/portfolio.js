@@ -5,9 +5,9 @@ const header = {
 
 const about = {
   name: "Samir Niroula",
-  role: "Web Developer",
+  // role: "Computer Student",
   description:
-    "Introducing a passionate web developer from Mechinagar-7, actively navigating the intricacies of BSc.CSIT while delving into the latest technologies. Stay tuned as this emerging talent shapes  expertise and makes noteworthy contributions to the ever-evolving landscape of web development.",
+    "A tech enthusiast from Mechinagar-7, rocking BSc.CSIT, diving deep into web development, and making waves in the ever-evolving tech world.",
   // resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/samir-niroula-560116271/",
@@ -18,8 +18,7 @@ const about = {
 const projects = [
   {
     name: "Photo App ",
-    description:
-      "Personal photo gallery where I showcase my photography skills.",
+    description: "Photo gallery site",
     stack: ["HTML", "CSS", "JavaScript"],
     sourceCode: "https://github.com/smrn001/photosZ",
     livePreview: "https://smrn001.github.io/photosZ/",
