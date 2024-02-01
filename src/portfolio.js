@@ -1,5 +1,5 @@
 const header = {
-  homepage: "https://samirn.com.np/",
+  homepage: "#",
   title: "SN",
 };
 
@@ -7,7 +7,7 @@ const about = {
   name: "Samir Niroula",
   // role: "Computer Student",
   description:
-    "A tech enthusiast from Mechinagar-7, rocking BSc.CSIT, diving deep into web development, and making waves in the ever-evolving tech world.",
+    "A tech enthusiast from Mechinagar-7, rocking BSc.CSIT, diving deep into tech, and making waves in the ever-evolving tech world.",
   // resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/samir-niroula-560116271/",
@@ -17,19 +17,20 @@ const about = {
 
 const projects = [
   {
-    name: "Photo App ",
-    description: "Photo gallery site",
-    stack: ["HTML", "CSS", "JavaScript"],
-    sourceCode: "https://github.com/smrn001/photosZ",
-    livePreview: "https://smrn001.github.io/photosZ/",
-  },
-  {
     name: "WebIDE",
     description: "A web IDE for HTML CSS and JS",
     stack: ["HTML", "CSS", "JavaScript"],
     sourceCode: "https://github.com/smrn001/webIDE",
     livePreview: "https://smrn001.github.io/webIDE/",
   },
+  {
+    name: "Photo App ",
+    description: "A  digital platform for displaying personal photographs",
+    stack: ["HTML", "CSS", "JavaScript"],
+    sourceCode: "https://github.com/smrn001/photosZ",
+    livePreview: "https://smrn001.github.io/photosZ/",
+  },
+
   {
     name: "School website",
     description: "A school website of Dhulabari Secondary school",
