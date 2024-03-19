@@ -17,6 +17,14 @@ const about = {
 
 const projects = [
   {
+    name: "Quote Generator",
+    description: "A web app that generates random quotes",
+    stack: ["HTML", "CSS", "JavaScript"],
+    sourceCode: "https://github.com/smrn001/randomQuote",
+    livePreview: "https://smrn001.github.io/randomQuote/",
+  },
+
+  {
     name: "WebIDE",
     description: "A web IDE for HTML CSS and JS",
     stack: ["HTML", "CSS", "JavaScript"],
