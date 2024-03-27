@@ -17,6 +17,13 @@ const about = {
 
 const projects = [
   {
+    name: "Note website",
+    description: "A website for CSIT notes",
+    stack: ["HTML", "CSS", "G-Drive"],
+    sourceCode: "https://github.com/smrn001/noteSharing",
+    livePreview: "https://csitn.netlify.app",
+  },
+  {
     name: "Quote Generator",
     description: "A web app that generates random quotes",
     stack: ["HTML", "CSS", "JavaScript"],
