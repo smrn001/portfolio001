@@ -58,7 +58,7 @@ const projects = [
 const skills = ["HTML", "CSS", "JavaScript", "React", "Git", "C"];
 
 const contact = {
-  email: "samir.niroula001@gmail.com",
+  email: "mail@samirn.com.np",
 };
 
 export { header, about, projects, skills, contact };
