@@ -8,7 +8,7 @@ const about = {
   // role: "Computer Student",
   description:
     "A tech enthusiast from Mechinagar-7, rocking BSc.CSIT, diving deep into technology, and making waves in the ever-evolving IT world.",
-  // resume: "https://example.com",
+  resume: "https://cv.samirn.com.np/",
   social: {
     linkedin: "https://www.linkedin.com/in/samir-niroula-560116271/",
     github: "https://github.com/smrn001",
